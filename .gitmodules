@@ -1,6 +1,6 @@
 [submodule "src/MOM6"]
 	path = src/MOM6
-	url = https://github.com/NOAA-GFDL/MOM6.git
+	url = https://github.com/paridhirustogi10/MOM6.git
 [submodule "src/SIS2"]
 	path = src/SIS2
 	url = https://github.com/NOAA-GFDL/SIS2.git
@@ -15,7 +15,7 @@
 	url = https://github.com/NOAA-GFDL/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
-	url = https://github.com/NOAA-GFDL/coupler.git
+	url = https://github.com/paridhirustogi10/Coupler.git
 [submodule "src/atmos_null"]
 	path = src/atmos_null
 	url = https://github.com/NOAA-GFDL/atmos_null.git
@@ -33,7 +33,10 @@
 	url = https://github.com/NOAA-GFDL/ice_param.git
 [submodule "src/FMS1"]
 	path = src/FMS1
-	url = https://github.com/NOAA-GFDL/FMS
+	url = https://github.com/paridhirustogi10/FMS.git
 [submodule "src/FMS2"]
 	path = src/FMS2
 	url = https://github.com/NOAA-GFDL/FMS
+[submodule "src/ocean_BGC"]
+	path = src/ocean_BGC
+	url = git@github.com:PrincetonUniversity/ocean_BGC.git
