@@ -39,4 +39,4 @@
 	url = https://github.com/NOAA-GFDL/FMS
 [submodule "src/ocean_BGC"]
 	path = src/ocean_BGC
-	url = git@github.com:PrincetonUniversity/ocean_BGC.git
+	url = git@github.com:paridhirustogi10/ocean_BGC.git
