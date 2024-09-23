@@ -15,7 +15,7 @@
 	url = https://github.com/NOAA-GFDL/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
-	url = https://github.com/paridhirustogi10/Coupler.git
+	url = git@github.com:paridhirustogi10/Coupler.git
 [submodule "src/atmos_null"]
 	path = src/atmos_null
 	url = git@github.com:paridhirustogi10/atmos_null.git
