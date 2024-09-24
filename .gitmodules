@@ -12,7 +12,7 @@
 	url = https://github.com/mjharriso/MIDAS.git
 [submodule "src/icebergs"]
 	path = src/icebergs
-	url = https://github.com/NOAA-GFDL/icebergs.git
+	url = git@github.com:paridhirustogi10/icebergs.git
 [submodule "src/coupler"]
 	path = src/coupler
 	url = git@github.com:paridhirustogi10/Coupler.git
